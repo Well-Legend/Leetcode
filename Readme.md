@@ -7,9 +7,9 @@
 | 難度 | 數量 |
 | --- | --- |
 | Easy | 13 |
-| Medium | 13 |
+| Medium | 15 |
 | Hard | 2 |
-| **總計** | **28** |
+| **總計** | **30** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -34,6 +34,7 @@
 | # | 題目 | 解答 |
 |---|---|---|
 | 2 | Add Two Numbers | [Link](./medium/2.Add_Two_Numbers.md) |
+| 6 | Zigzag Conversion | [Link](./medium/6.Zigzag_Conversion.md) |
 | 12 | Integer to Roman | [Link](./medium/12.Integer_to_Roman.md) |
 | 45 | Jump Game II | [Link](./medium/45.Jump_Game_II.md) |
 | 55 | Jump Game | [Link](./medium/55.Jump_Game.md) |
