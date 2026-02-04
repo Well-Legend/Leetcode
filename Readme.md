@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 15 |
 | Hard | 2 |
-| **總計** | **30** |
+| **總計** | **31** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -57,6 +57,7 @@
 | 14 | Longest Common Prefix | [Link](./easy/14.Longest_Common_Prefix.md) |
 | 26 | Remove Duplicates from Sorted Array | [Link](./easy/26.Remove_Duplicates_from_Sorted_Array.md) |
 | 27 | Remove Element | [Link](./easy/27.Remove_Element.md) |
+| 28 | Find the Index of the First Occurrence in a String | [Link](./easy/28.Find_the_Index_of_the_First_Occurrence_in_a_String.md) |
 | 58 | Length of Last Word | [Link](./easy/58.Length_of_Last_Word.md) |
 | 88 | Merge Sorted Array | [Link](./easy/88.Merge_Sorted_Array.md) |
 | 121 | Best Time to Buy and Sell Stock | [Link](./easy/121.Best_Time_to_Buy_and_Sell_Stock.md) |
