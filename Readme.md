@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 14 |
+| Easy | 16 |
 | Medium | 15 |
 | Hard | 2 |
-| **總計** | **31** |
+| **總計** | **33** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -61,7 +61,9 @@
 | 58 | Length of Last Word | [Link](./easy/58.Length_of_Last_Word.md) |
 | 88 | Merge Sorted Array | [Link](./easy/88.Merge_Sorted_Array.md) |
 | 121 | Best Time to Buy and Sell Stock | [Link](./easy/121.Best_Time_to_Buy_and_Sell_Stock.md) |
+| 125 | Valid Palindrome | [Link](./easy/125.Valid_Palindrome.md) |
 | 169 | Majority Element | [Link](./easy/169.Majority_Element.md) |
+| 392 | Is Subsequence | [Link](./easy/392.Is_Subsequence.md) |
 | 1662 | Check If Two String Arrays are Equivalent | [Link](./easy/1662.Check_If_Two_String_Arrays_are_Equivalent.md) |
 | 2206 | Divide Array Into Equal Pairs | [Link](./easy/2206.Divide_Array_Into_Equal_Pairs.md) |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | [Link](./easy/2529.Maximum_Count_of_Positive_Integer_and_Negative_Integer.md) |
