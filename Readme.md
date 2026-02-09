@@ -7,9 +7,9 @@
 | 難度 | 數量 |
 | --- | --- |
 | Easy | 16 |
-| Medium | 15 |
-| Hard | 2 |
-| **總計** | **33** |
+| Medium | 16 |
+| Hard | 3 |
+| **總計** | **35** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -28,6 +28,7 @@
 | # | 題目 | 解答 |
 |---|---|---|
 | 42 | Trapping Rain Water | [Link](./hard/42.Trapping_Rain_Water.md) |
+| 68 | Text Justification | [Link](./hard/68.Text_Justification.md) |
 | 135 | Candy | [Link](./hard/135.Candy.md) |
 
 ### Medium
@@ -42,6 +43,7 @@
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
 | 134 | Gas Station | [Link](./medium/134.%20Gas_Station.md) |
 | 151 | Reverse Words in a String | [Link](./medium/151.Reverse_Words_in_a_String.md) |
+| 167 | Two Sum II - Input Array Is Sorted | [Link](./medium/167.Two_Sum_II-Input_Array_Is_Sorted.md) |
 | 189 | Rotate Array | [Link](./medium/189.Rotate_Array.md) |
 | 238 | Product of Array Except Self | [Link](./medium/238.Product_of_Array_Except_Self.md) |
 | 274 | H-Index | [Link](./medium/274.H-Index.md) |
