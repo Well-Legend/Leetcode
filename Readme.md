@@ -7,9 +7,9 @@
 | 難度 | 數量 |
 | --- | --- |
 | Easy | 16 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 3 |
-| **總計** | **36** |
+| **總計** | **37** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -46,6 +46,7 @@
 | 151 | Reverse Words in a String | [Link](./medium/151.Reverse_Words_in_a_String.md) |
 | 167 | Two Sum II - Input Array Is Sorted | [Link](./medium/167.Two_Sum_II-Input_Array_Is_Sorted.md) |
 | 189 | Rotate Array | [Link](./medium/189.Rotate_Array.md) |
+| 209 | Minimum Size Subarray Sum | [Link](./medium/209.Minimum_Size_Subarray_Sum.md) |
 | 238 | Product of Array Except Self | [Link](./medium/238.Product_of_Array_Except_Self.md) |
 | 274 | H-Index | [Link](./medium/274.H-Index.md) |
 | 380 | Insert Delete GetRandom O(1) | [Link](./medium/380.Insert_Delete_GetRandom_O(1).md) |
