@@ -7,9 +7,9 @@
 | 難度 | 數量 |
 | --- | --- |
 | Easy | 16 |
-| Medium | 19 |
-| Hard | 3 |
-| **總計** | **38** |
+| Medium | 21 |
+| Hard | 5 |
+| **總計** | **42** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -27,8 +27,10 @@
 ### Hard
 | # | 題目 | 解答 |
 |---|---|---|
+| 30 | Substring with Concatenation of All Words | [Link](./hard/30.Substring_with_Concatenation_of_All_Words.md) |
 | 42 | Trapping Rain Water | [Link](./hard/42.Trapping_Rain_Water.md) |
 | 68 | Text Justification | [Link](./hard/68.Text_Justification.md) |
+| 76 | Minimum Window Substring | [Link](./hard/76.Minimum_Window_Substring.md) |
 | 135 | Candy | [Link](./hard/135.Candy.md) |
 
 ### Medium
@@ -39,7 +41,9 @@
 | 6 | Zigzag Conversion | [Link](./medium/6.Zigzag_Conversion.md) |
 | 12 | Integer to Roman | [Link](./medium/12.Integer_to_Roman.md) |
 | 15 | 3Sum | [Link](./medium/15.3Sum.md) |
+| 36 | Valid Sudoku | [Link](./medium/36.Valid_Sudoku.md) |
 | 45 | Jump Game II | [Link](./medium/45.Jump_Game_II.md) |
+| 54 | Spiral Matrix | [Link](./medium/54.Spiral_Matrix.md) |
 | 55 | Jump Game | [Link](./medium/55.Jump_Game.md) |
 | 80 | Remove Duplicates from Sorted Array II | [Link](./medium/80.Remove_Duplicates_from_Sorted_Array_II.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
