@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 16 |
-| Medium | 21 |
+| Easy | 17 |
+| Medium | 24 |
 | Hard | 5 |
-| **總計** | **42** |
+| **總計** | **46** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -43,8 +43,10 @@
 | 15 | 3Sum | [Link](./medium/15.3Sum.md) |
 | 36 | Valid Sudoku | [Link](./medium/36.Valid_Sudoku.md) |
 | 45 | Jump Game II | [Link](./medium/45.Jump_Game_II.md) |
+| 48 | Rotate Image | [Link](./medium/48.Rotate_Image.md) |
 | 54 | Spiral Matrix | [Link](./medium/54.Spiral_Matrix.md) |
 | 55 | Jump Game | [Link](./medium/55.Jump_Game.md) |
+| 73 | Set Matrix Zeroes | [Link](./medium/73.Set_Matrix_Zeroes.md) |
 | 80 | Remove Duplicates from Sorted Array II | [Link](./medium/80.Remove_Duplicates_from_Sorted_Array_II.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
 | 134 | Gas Station | [Link](./medium/134.%20Gas_Station.md) |
@@ -54,6 +56,7 @@
 | 209 | Minimum Size Subarray Sum | [Link](./medium/209.Minimum_Size_Subarray_Sum.md) |
 | 238 | Product of Array Except Self | [Link](./medium/238.Product_of_Array_Except_Self.md) |
 | 274 | H-Index | [Link](./medium/274.H-Index.md) |
+| 289 | Game of Life | [Link](./medium/289.Game_of_Life.md) |
 | 380 | Insert Delete GetRandom O(1) | [Link](./medium/380.Insert_Delete_GetRandom_O(1).md) |
 | 2563 | Count the Number of Fair Pairs | [Link](./medium/2563.Count_the_Number_of_Fair_Pairs.md) |
 | 2594 | Minimum Time to Repair Cars | [Link](./medium/2594.Minimum_Time_to_Repair_Cars.md) |
@@ -72,6 +75,7 @@
 | 121 | Best Time to Buy and Sell Stock | [Link](./easy/121.Best_Time_to_Buy_and_Sell_Stock.md) |
 | 125 | Valid Palindrome | [Link](./easy/125.Valid_Palindrome.md) |
 | 169 | Majority Element | [Link](./easy/169.Majority_Element.md) |
+| 383 | Ransom Note | [Link](./easy/383.Ransom_Note.md) |
 | 392 | Is Subsequence | [Link](./easy/392.Is_Subsequence.md) |
 | 1662 | Check If Two String Arrays are Equivalent | [Link](./easy/1662.Check_If_Two_String_Arrays_are_Equivalent.md) |
 | 2206 | Divide Array Into Equal Pairs | [Link](./easy/2206.Divide_Array_Into_Equal_Pairs.md) |
