@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 18 |
+| Easy | 20 |
 | Medium | 24 |
 | Hard | 5 |
-| **總計** | **47** |
+| **總計** | **49** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -76,6 +76,8 @@
 | 125 | Valid Palindrome | [Link](./easy/125.Valid_Palindrome.md) |
 | 169 | Majority Element | [Link](./easy/169.Majority_Element.md) |
 | 205 | Isomorphic Strings | [Link](./easy/205.Isomorphic_Strings.md) |
+| 242 | Valid Anagram | [Link](./easy/242.Valid_Anagram.md) |
+| 290 | Word Pattern | [Link](./easy/290.Word_Pattern.md) |
 | 383 | Ransom Note | [Link](./easy/383.Ransom_Note.md) |
 | 392 | Is Subsequence | [Link](./easy/392.Is_Subsequence.md) |
 | 1662 | Check If Two String Arrays are Equivalent | [Link](./easy/1662.Check_If_Two_String_Arrays_are_Equivalent.md) |
