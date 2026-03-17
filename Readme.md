@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 20 |
+| Easy | 23 |
 | Medium | 24 |
 | Hard | 5 |
-| **總計** | **49** |
+| **總計** | **52** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -75,7 +75,10 @@
 | 121 | Best Time to Buy and Sell Stock | [Link](./easy/121.Best_Time_to_Buy_and_Sell_Stock.md) |
 | 125 | Valid Palindrome | [Link](./easy/125.Valid_Palindrome.md) |
 | 169 | Majority Element | [Link](./easy/169.Majority_Element.md) |
+| 202 | Happy Number | [Link](./easy/202.Happy_Number.md) |
 | 205 | Isomorphic Strings | [Link](./easy/205.Isomorphic_Strings.md) |
+| 217 | Contains Duplicate | [Link](./easy/217.Contains_Duplicate.md) |
+| 219 | Contains Duplicate II | [Link](./easy/219.Contains_Duplicate_II.md) |
 | 242 | Valid Anagram | [Link](./easy/242.Valid_Anagram.md) |
 | 290 | Word Pattern | [Link](./easy/290.Word_Pattern.md) |
 | 383 | Ransom Note | [Link](./easy/383.Ransom_Note.md) |
