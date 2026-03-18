@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 23 |
-| Medium | 24 |
+| Easy | 24 |
+| Medium | 25 |
 | Hard | 5 |
-| **總計** | **52** |
+| **總計** | **54** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -60,6 +60,7 @@
 | 380 | Insert Delete GetRandom O(1) | [Link](./medium/380.Insert_Delete_GetRandom_O(1).md) |
 | 2563 | Count the Number of Fair Pairs | [Link](./medium/2563.Count_the_Number_of_Fair_Pairs.md) |
 | 2594 | Minimum Time to Repair Cars | [Link](./medium/2594.Minimum_Time_to_Repair_Cars.md) |
+| 3871 | Count Commas in Range II | [Link](./medium/3871.Count_Commas_in_Range_II.md) |
 
 ### Easy
 | # | 題目 | 解答 |
@@ -87,3 +88,4 @@
 | 2206 | Divide Array Into Equal Pairs | [Link](./easy/2206.Divide_Array_Into_Equal_Pairs.md) |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | [Link](./easy/2529.Maximum_Count_of_Positive_Integer_and_Negative_Integer.md) |
 | 2873 | Maximum Value of an Ordered Triplet I | [Link](./easy/2873.Maximum_Value_of_an_Ordered_Triplet_I.md) |
+| 3870 | Count Commas in Range | [Link](./easy/3870.Count_Commas_in_Range.md) |
