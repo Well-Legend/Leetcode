@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 24 |
+| Easy | 25 |
 | Medium | 25 |
 | Hard | 5 |
-| **總計** | **54** |
+| **總計** | **55** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -80,6 +80,7 @@
 | 205 | Isomorphic Strings | [Link](./easy/205.Isomorphic_Strings.md) |
 | 217 | Contains Duplicate | [Link](./easy/217.Contains_Duplicate.md) |
 | 219 | Contains Duplicate II | [Link](./easy/219.Contains_Duplicate_II.md) |
+| 228 | Summary Ranges | [Link](./easy/228.Summary_Ranges.md) |
 | 242 | Valid Anagram | [Link](./easy/242.Valid_Anagram.md) |
 | 290 | Word Pattern | [Link](./easy/290.Word_Pattern.md) |
 | 383 | Ransom Note | [Link](./easy/383.Ransom_Note.md) |
