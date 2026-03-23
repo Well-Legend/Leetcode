@@ -7,9 +7,9 @@
 | 難度 | 數量 |
 | --- | --- |
 | Easy | 25 |
-| Medium | 27 |
+| Medium | 28 |
 | Hard | 5 |
-| **總計** | **57** |
+| **總計** | **58** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -47,6 +47,7 @@
 | 49 | Group Anagrams | [Link](./medium/49.Group_Anagrams.md) |
 | 54 | Spiral Matrix | [Link](./medium/54.Spiral_Matrix.md) |
 | 55 | Jump Game | [Link](./medium/55.Jump_Game.md) |
+| 56 | Merge Intervals | [Link](./medium/56.Merge_Intervals.md) |
 | 73 | Set Matrix Zeroes | [Link](./medium/73.Set_Matrix_Zeroes.md) |
 | 80 | Remove Duplicates from Sorted Array II | [Link](./medium/80.Remove_Duplicates_from_Sorted_Array_II.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
