@@ -7,9 +7,9 @@
 | 難度 | 數量 |
 | --- | --- |
 | Easy | 25 |
-| Medium | 28 |
+| Medium | 30 |
 | Hard | 5 |
-| **總計** | **58** |
+| **總計** | **60** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -48,6 +48,7 @@
 | 54 | Spiral Matrix | [Link](./medium/54.Spiral_Matrix.md) |
 | 55 | Jump Game | [Link](./medium/55.Jump_Game.md) |
 | 56 | Merge Intervals | [Link](./medium/56.Merge_Intervals.md) |
+| 57 | Insert Interval | [Link](./medium/57.Insert_Interval.md) |
 | 73 | Set Matrix Zeroes | [Link](./medium/73.Set_Matrix_Zeroes.md) |
 | 80 | Remove Duplicates from Sorted Array II | [Link](./medium/80.Remove_Duplicates_from_Sorted_Array_II.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
@@ -61,6 +62,7 @@
 | 274 | H-Index | [Link](./medium/274.H-Index.md) |
 | 289 | Game of Life | [Link](./medium/289.Game_of_Life.md) |
 | 380 | Insert Delete GetRandom O(1) | [Link](./medium/380.Insert_Delete_GetRandom_O(1).md) |
+| 452 | Minimum Number of Arrows to Burst Balloons | [Link](./medium/452.Minimum_Number_of_Arrows_to_Burst_Balloons.md) |
 | 2563 | Count the Number of Fair Pairs | [Link](./medium/2563.Count_the_Number_of_Fair_Pairs.md) |
 | 2594 | Minimum Time to Repair Cars | [Link](./medium/2594.Minimum_Time_to_Repair_Cars.md) |
 | 3871 | Count Commas in Range II | [Link](./medium/3871.Count_Commas_in_Range_II.md) |
