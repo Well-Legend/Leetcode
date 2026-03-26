@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 25 |
-| Medium | 30 |
+| Easy | 26 |
+| Medium | 32 |
 | Hard | 5 |
-| **總計** | **60** |
+| **總計** | **63** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -49,11 +49,13 @@
 | 55 | Jump Game | [Link](./medium/55.Jump_Game.md) |
 | 56 | Merge Intervals | [Link](./medium/56.Merge_Intervals.md) |
 | 57 | Insert Interval | [Link](./medium/57.Insert_Interval.md) |
+| 71 | Simplify Path | [Link](./medium/71.Simplify_Path.md) |
 | 73 | Set Matrix Zeroes | [Link](./medium/73.Set_Matrix_Zeroes.md) |
 | 80 | Remove Duplicates from Sorted Array II | [Link](./medium/80.Remove_Duplicates_from_Sorted_Array_II.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
 | 128 | Longest Consecutive Sequence | [Link](./medium/128.Longest_Consecutive_Sequence.md) |
 | 134 | Gas Station | [Link](./medium/134.%20Gas_Station.md) |
+| 155 | Min Stack | [Link](./medium/155.Min_Stack.md) |
 | 151 | Reverse Words in a String | [Link](./medium/151.Reverse_Words_in_a_String.md) |
 | 167 | Two Sum II - Input Array Is Sorted | [Link](./medium/167.Two_Sum_II-Input_Array_Is_Sorted.md) |
 | 189 | Rotate Array | [Link](./medium/189.Rotate_Array.md) |
@@ -73,6 +75,7 @@
 | 1 | Two Sum | [Link](./easy/1.Two_Sum.md) |
 | 13 | Roman to Integer | [Link](./easy/13.Roman_to_Integer.md) |
 | 14 | Longest Common Prefix | [Link](./easy/14.Longest_Common_Prefix.md) |
+| 20 | Valid Parentheses | [Link](./easy/20.Valid_Parentheses.md) |
 | 26 | Remove Duplicates from Sorted Array | [Link](./easy/26.Remove_Duplicates_from_Sorted_Array.md) |
 | 27 | Remove Element | [Link](./easy/27.Remove_Element.md) |
 | 28 | Find the Index of the First Occurrence in a String | [Link](./easy/28.Find_the_Index_of_the_First_Occurrence_in_a_String.md) |
