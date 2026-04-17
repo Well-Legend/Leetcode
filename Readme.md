@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 27 |
-| Medium | 33 |
+| Easy | 28 |
+| Medium | 35 |
 | Hard | 6 |
-| **總計** | **66** |
+| **總計** | **69** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -53,9 +53,11 @@
 | 71 | Simplify Path | [Link](./medium/71.Simplify_Path.md) |
 | 73 | Set Matrix Zeroes | [Link](./medium/73.Set_Matrix_Zeroes.md) |
 | 80 | Remove Duplicates from Sorted Array II | [Link](./medium/80.Remove_Duplicates_from_Sorted_Array_II.md) |
+| 92 | Reverse Linked List II | [Link](./medium/92.Reverse_Linked_List_II.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
 | 128 | Longest Consecutive Sequence | [Link](./medium/128.Longest_Consecutive_Sequence.md) |
 | 134 | Gas Station | [Link](./medium/134.%20Gas_Station.md) |
+| 138 | Copy List with Random Pointer | [Link](./medium/138.Copy_List_with_Random_Pointer.md) |
 | 150 | Evaluate Reverse Polish Notation | [Link](./medium/150.Evaluate_Reverse_Polish_Notation.md) |
 | 155 | Min Stack | [Link](./medium/155.Min_Stack.md) |
 | 151 | Reverse Words in a String | [Link](./medium/151.Reverse_Words_in_a_String.md) |
@@ -78,6 +80,7 @@
 | 13 | Roman to Integer | [Link](./easy/13.Roman_to_Integer.md) |
 | 14 | Longest Common Prefix | [Link](./easy/14.Longest_Common_Prefix.md) |
 | 20 | Valid Parentheses | [Link](./easy/20.Valid_Parentheses.md) |
+| 21 | Merge Two Sorted Lists | [Link](./easy/21.Merge_Two_Sorted_Lists.md) |
 | 26 | Remove Duplicates from Sorted Array | [Link](./easy/26.Remove_Duplicates_from_Sorted_Array.md) |
 | 27 | Remove Element | [Link](./easy/27.Remove_Element.md) |
 | 28 | Find the Index of the First Occurrence in a String | [Link](./easy/28.Find_the_Index_of_the_First_Occurrence_in_a_String.md) |
