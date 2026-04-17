@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 28 |
-| Medium | 35 |
+| Easy | 32 |
+| Medium | 42 |
 | Hard | 6 |
-| **總計** | **69** |
+| **總計** | **80** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -50,14 +50,20 @@
 | 55 | Jump Game | [Link](./medium/55.Jump_Game.md) |
 | 56 | Merge Intervals | [Link](./medium/56.Merge_Intervals.md) |
 | 57 | Insert Interval | [Link](./medium/57.Insert_Interval.md) |
+| 61 | Rotate List | [Link](./medium/61.Rotate_List.md) |
 | 71 | Simplify Path | [Link](./medium/71.Simplify_Path.md) |
 | 73 | Set Matrix Zeroes | [Link](./medium/73.Set_Matrix_Zeroes.md) |
 | 80 | Remove Duplicates from Sorted Array II | [Link](./medium/80.Remove_Duplicates_from_Sorted_Array_II.md) |
+| 82 | Remove Duplicates from Sorted List II | [Link](./medium/82.Remove_Duplicates_from_Sorted_List_II.md) |
+| 86 | Partition List | [Link](./medium/86.Partition_List.md) |
 | 92 | Reverse Linked List II | [Link](./medium/92.Reverse_Linked_List_II.md) |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Link](./medium/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | [Link](./medium/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
 | 128 | Longest Consecutive Sequence | [Link](./medium/128.Longest_Consecutive_Sequence.md) |
 | 134 | Gas Station | [Link](./medium/134.%20Gas_Station.md) |
 | 138 | Copy List with Random Pointer | [Link](./medium/138.Copy_List_with_Random_Pointer.md) |
+| 146 | LRU Cache | [Link](./medium/146.LRU_Cache.md) |
 | 150 | Evaluate Reverse Polish Notation | [Link](./medium/150.Evaluate_Reverse_Polish_Notation.md) |
 | 155 | Min Stack | [Link](./medium/155.Min_Stack.md) |
 | 151 | Reverse Words in a String | [Link](./medium/151.Reverse_Words_in_a_String.md) |
@@ -86,6 +92,9 @@
 | 28 | Find the Index of the First Occurrence in a String | [Link](./easy/28.Find_the_Index_of_the_First_Occurrence_in_a_String.md) |
 | 58 | Length of Last Word | [Link](./easy/58.Length_of_Last_Word.md) |
 | 88 | Merge Sorted Array | [Link](./easy/88.Merge_Sorted_Array.md) |
+| 100 | Same Tree | [Link](./easy/100.Same_Tree.md) |
+| 101 | Symmetric Tree | [Link](./easy/101.Symmetric_Tree.md) |
+| 104 | Maximum Depth of Binary Tree | [Link](./easy/104.Maximum_Depth_of_Binary_Tree.md) |
 | 121 | Best Time to Buy and Sell Stock | [Link](./easy/121.Best_Time_to_Buy_and_Sell_Stock.md) |
 | 125 | Valid Palindrome | [Link](./easy/125.Valid_Palindrome.md) |
 | 141 | Linked List Cycle | [Link](./easy/141.Linked_List_Cycle.md) |
@@ -95,6 +104,7 @@
 | 217 | Contains Duplicate | [Link](./easy/217.Contains_Duplicate.md) |
 | 219 | Contains Duplicate II | [Link](./easy/219.Contains_Duplicate_II.md) |
 | 228 | Summary Ranges | [Link](./easy/228.Summary_Ranges.md) |
+| 226 | Invert Binary Tree | [Link](./easy/226.Invert_Binary_Tree.md) |
 | 242 | Valid Anagram | [Link](./easy/242.Valid_Anagram.md) |
 | 290 | Word Pattern | [Link](./easy/290.Word_Pattern.md) |
 | 383 | Ransom Note | [Link](./easy/383.Ransom_Note.md) |
