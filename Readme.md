@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 26 |
-| Medium | 32 |
-| Hard | 5 |
-| **總計** | **63** |
+| Easy | 27 |
+| Medium | 33 |
+| Hard | 6 |
+| **總計** | **66** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -32,6 +32,7 @@
 | 68 | Text Justification | [Link](./hard/68.Text_Justification.md) |
 | 76 | Minimum Window Substring | [Link](./hard/76.Minimum_Window_Substring.md) |
 | 135 | Candy | [Link](./hard/135.Candy.md) |
+| 224 | Basic Calculator | [Link](./hard/224.Basic_Calculator.md) |
 
 ### Medium
 | # | 題目 | 解答 |
@@ -55,6 +56,7 @@
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
 | 128 | Longest Consecutive Sequence | [Link](./medium/128.Longest_Consecutive_Sequence.md) |
 | 134 | Gas Station | [Link](./medium/134.%20Gas_Station.md) |
+| 150 | Evaluate Reverse Polish Notation | [Link](./medium/150.Evaluate_Reverse_Polish_Notation.md) |
 | 155 | Min Stack | [Link](./medium/155.Min_Stack.md) |
 | 151 | Reverse Words in a String | [Link](./medium/151.Reverse_Words_in_a_String.md) |
 | 167 | Two Sum II - Input Array Is Sorted | [Link](./medium/167.Two_Sum_II-Input_Array_Is_Sorted.md) |
@@ -83,6 +85,7 @@
 | 88 | Merge Sorted Array | [Link](./easy/88.Merge_Sorted_Array.md) |
 | 121 | Best Time to Buy and Sell Stock | [Link](./easy/121.Best_Time_to_Buy_and_Sell_Stock.md) |
 | 125 | Valid Palindrome | [Link](./easy/125.Valid_Palindrome.md) |
+| 141 | Linked List Cycle | [Link](./easy/141.Linked_List_Cycle.md) |
 | 169 | Majority Element | [Link](./easy/169.Majority_Element.md) |
 | 202 | Happy Number | [Link](./easy/202.Happy_Number.md) |
 | 205 | Isomorphic Strings | [Link](./easy/205.Isomorphic_Strings.md) |
