@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 32 |
-| Medium | 42 |
+| Easy | 33 |
+| Medium | 44 |
 | Hard | 6 |
-| **總計** | **80** |
+| **總計** | **83** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -59,8 +59,10 @@
 | 92 | Reverse Linked List II | [Link](./medium/92.Reverse_Linked_List_II.md) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Link](./medium/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | [Link](./medium/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md) |
+| 117 | Populating Next Right Pointers in Each Node II | [Link](./medium/117.Populating_Next_Right_Pointers_in_Each_Node_II.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
 | 128 | Longest Consecutive Sequence | [Link](./medium/128.Longest_Consecutive_Sequence.md) |
+| 129 | Sum Root to Leaf Numbers | [Link](./medium/129.Sum_Root_to_Leaf_Numbers.md) |
 | 134 | Gas Station | [Link](./medium/134.%20Gas_Station.md) |
 | 138 | Copy List with Random Pointer | [Link](./medium/138.Copy_List_with_Random_Pointer.md) |
 | 146 | LRU Cache | [Link](./medium/146.LRU_Cache.md) |
@@ -95,6 +97,7 @@
 | 100 | Same Tree | [Link](./easy/100.Same_Tree.md) |
 | 101 | Symmetric Tree | [Link](./easy/101.Symmetric_Tree.md) |
 | 104 | Maximum Depth of Binary Tree | [Link](./easy/104.Maximum_Depth_of_Binary_Tree.md) |
+| 112 | Path Sum | [Link](./easy/112.Path_Sum.md) |
 | 121 | Best Time to Buy and Sell Stock | [Link](./easy/121.Best_Time_to_Buy_and_Sell_Stock.md) |
 | 125 | Valid Palindrome | [Link](./easy/125.Valid_Palindrome.md) |
 | 141 | Linked List Cycle | [Link](./easy/141.Linked_List_Cycle.md) |
