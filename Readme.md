@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 35 |
-| Medium | 50 |
+| Easy | 37 |
+| Medium | 51 |
 | Hard | 6 |
-| **總計** | **91** |
+| **總計** | **94** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -77,6 +77,7 @@
 | 189 | Rotate Array | [Link](./medium/189.Rotate_Array.md) |
 | 199 | Binary Tree Right Side View | [Link](./medium/199.Binary_Tree_Right_Side_View.md) |
 | 209 | Minimum Size Subarray Sum | [Link](./medium/209.Minimum_Size_Subarray_Sum.md) |
+| 230 | Kth Smallest Element in a BST | [Link](./medium/230.Kth_Smallest_Element_in_a_BST.md) |
 | 236 | Lowest Common Ancestor of a Binary Tree | [Link](./medium/236.Lowest_Common_Ancestor_of_a_Binary_Tree.md) |
 | 238 | Product of Array Except Self | [Link](./medium/238.Product_of_Array_Except_Self.md) |
 | 274 | H-Index | [Link](./medium/274.H-Index.md) |
@@ -119,7 +120,9 @@
 | 290 | Word Pattern | [Link](./easy/290.Word_Pattern.md) |
 | 383 | Ransom Note | [Link](./easy/383.Ransom_Note.md) |
 | 392 | Is Subsequence | [Link](./easy/392.Is_Subsequence.md) |
+| 530 | Minimum Absolute Difference in BST | [Link](./easy/530.Minimum_Absolute_Difference_in_BST.md) |
 | 637 | Average of Levels in Binary Tree | [Link](./easy/637.Average_of_Levels_in_Binary_Tree.md) |
+| 783 | Minimum Distance Between BST Nodes | [Link](./easy/783.Minimum_Distance_Between_BST_Nodes.md) |
 | 1662 | Check If Two String Arrays are Equivalent | [Link](./easy/1662.Check_If_Two_String_Arrays_are_Equivalent.md) |
 | 2206 | Divide Array Into Equal Pairs | [Link](./easy/2206.Divide_Array_Into_Equal_Pairs.md) |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | [Link](./easy/2529.Maximum_Count_of_Positive_Integer_and_Negative_Integer.md) |
