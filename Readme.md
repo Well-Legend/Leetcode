@@ -6,10 +6,10 @@
 ## 統計資料
 | 難度 | 數量 |
 | --- | --- |
-| Easy | 33 |
-| Medium | 44 |
+| Easy | 35 |
+| Medium | 50 |
 | Hard | 6 |
-| **總計** | **83** |
+| **總計** | **91** |
 
 ## 檔案格式
 每個解題檔案 (.md) 均包含以下結構：
@@ -57,8 +57,11 @@
 | 82 | Remove Duplicates from Sorted List II | [Link](./medium/82.Remove_Duplicates_from_Sorted_List_II.md) |
 | 86 | Partition List | [Link](./medium/86.Partition_List.md) |
 | 92 | Reverse Linked List II | [Link](./medium/92.Reverse_Linked_List_II.md) |
+| 102 | Binary Tree Level Order Traversal | [Link](./medium/102.Binary_Tree_Level_Order_Traversal.md) |
+| 103 | Binary Tree Zigzag Level Order Traversal | [Link](./medium/103.Binary_Tree_Zigzag_Level_Order_Traversal.md) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Link](./medium/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | [Link](./medium/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md) |
+| 114 | Flatten Binary Tree to Linked List | [Link](./medium/114.Flatten_Binary_Tree_to_Linked_List.md) |
 | 117 | Populating Next Right Pointers in Each Node II | [Link](./medium/117.Populating_Next_Right_Pointers_in_Each_Node_II.md) |
 | 122 | Best Time to Buy and Sell Stock II | [Link](./medium/122.Best_Time_to_Buy_and_Sell_Stock_II.md) |
 | 128 | Longest Consecutive Sequence | [Link](./medium/128.Longest_Consecutive_Sequence.md) |
@@ -70,8 +73,11 @@
 | 155 | Min Stack | [Link](./medium/155.Min_Stack.md) |
 | 151 | Reverse Words in a String | [Link](./medium/151.Reverse_Words_in_a_String.md) |
 | 167 | Two Sum II - Input Array Is Sorted | [Link](./medium/167.Two_Sum_II-Input_Array_Is_Sorted.md) |
+| 173 | Binary Search Tree Iterator | [Link](./medium/173.Binary_Search_Tree_Iterator.md) |
 | 189 | Rotate Array | [Link](./medium/189.Rotate_Array.md) |
+| 199 | Binary Tree Right Side View | [Link](./medium/199.Binary_Tree_Right_Side_View.md) |
 | 209 | Minimum Size Subarray Sum | [Link](./medium/209.Minimum_Size_Subarray_Sum.md) |
+| 236 | Lowest Common Ancestor of a Binary Tree | [Link](./medium/236.Lowest_Common_Ancestor_of_a_Binary_Tree.md) |
 | 238 | Product of Array Except Self | [Link](./medium/238.Product_of_Array_Except_Self.md) |
 | 274 | H-Index | [Link](./medium/274.H-Index.md) |
 | 289 | Game of Life | [Link](./medium/289.Game_of_Life.md) |
@@ -106,12 +112,14 @@
 | 205 | Isomorphic Strings | [Link](./easy/205.Isomorphic_Strings.md) |
 | 217 | Contains Duplicate | [Link](./easy/217.Contains_Duplicate.md) |
 | 219 | Contains Duplicate II | [Link](./easy/219.Contains_Duplicate_II.md) |
+| 222 | Count Complete Tree Nodes | [Link](./easy/222.Count_Complete_Tree_Nodes.md) |
 | 228 | Summary Ranges | [Link](./easy/228.Summary_Ranges.md) |
 | 226 | Invert Binary Tree | [Link](./easy/226.Invert_Binary_Tree.md) |
 | 242 | Valid Anagram | [Link](./easy/242.Valid_Anagram.md) |
 | 290 | Word Pattern | [Link](./easy/290.Word_Pattern.md) |
 | 383 | Ransom Note | [Link](./easy/383.Ransom_Note.md) |
 | 392 | Is Subsequence | [Link](./easy/392.Is_Subsequence.md) |
+| 637 | Average of Levels in Binary Tree | [Link](./easy/637.Average_of_Levels_in_Binary_Tree.md) |
 | 1662 | Check If Two String Arrays are Equivalent | [Link](./easy/1662.Check_If_Two_String_Arrays_are_Equivalent.md) |
 | 2206 | Divide Array Into Equal Pairs | [Link](./easy/2206.Divide_Array_Into_Equal_Pairs.md) |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | [Link](./easy/2529.Maximum_Count_of_Positive_Integer_and_Negative_Integer.md) |
